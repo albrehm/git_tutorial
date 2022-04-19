@@ -1,2 +1,2 @@
-x <- rnorm(25, 2, 4)
+x <- rnorm(25, 2, 8)
 hist(x)
