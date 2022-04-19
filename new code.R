@@ -1,3 +1,4 @@
-x <- rnorm(25, 2, 8)
+#new file for coding and cookies demo
+x <- rnorm(25, 2, 12)
 hist(x)
 
